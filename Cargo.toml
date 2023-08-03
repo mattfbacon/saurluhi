@@ -1,0 +1,9 @@
+[package]
+edition = "2021"
+name = "sau"
+version = "0.1.0"
+
+[dependencies]
+argh = "0.1"
+bytesize = "1"
+walkdir = "2"
